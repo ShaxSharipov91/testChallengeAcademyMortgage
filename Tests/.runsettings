@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <NUnit>
+    <!-- NUnit .runsettings documentation: https://github.com/nunit/docs/wiki/Tips-And-Tricks -->
+    
+  </NUnit>
+
+  <!-- Parameters used by tests at runtime -->
+  <TestRunParameters>
+    <Parameter name="environment" value="PROD" />
+    <Parameter name="UserName" value="TestUser" />
+    <Parameter name="Password" value="UEVXUFNwOFJlOFhp" />
+    <Parameter name="browser" value="chrome" />
+    <Parameter name="type" value="local" />
+    <Parameter name="wait" value="30" />
+    <Parameter name="debug" value="false" />
+  </TestRunParameters>
+</RunSettings>
